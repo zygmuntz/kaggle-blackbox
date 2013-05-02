@@ -1,5 +1,8 @@
 # source( 'rf.r' )
 
+# produce a submission file
+# you will still need to convert integers to floats ( x -> x.0 )
+
 library( randomForest )
 
 train_file = 'data/train.csv'
