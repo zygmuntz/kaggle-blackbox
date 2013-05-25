@@ -1,5 +1,5 @@
-Deep learning made easy
-=======================
+More on sparse filtering and the Black Box competition
+======================================================
 
 See [http://fastml.com/more-on-sparse-filtering-and-the-black-box-competition/](http://fastml.com/more-on-sparse-filtering-and-the-black-box-competition/) for description.
 
