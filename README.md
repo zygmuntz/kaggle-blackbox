@@ -10,3 +10,6 @@ See [http://fastml.com/deep-learning-made-easy/](http://fastml.com/deep-learning
 	
 	
 	
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/zygmuntz/kaggle-blackbox/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
