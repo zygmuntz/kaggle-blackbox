@@ -8,8 +8,3 @@ See [http://fastml.com/deep-learning-made-easy/](http://fastml.com/deep-learning
 	sparse_filtering_big.m - run sparse filtering using extra data
 	sparse_filtering_small.m - run sparse filtering using only train and test files
 	
-	
-	
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/zygmuntz/kaggle-blackbox/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
